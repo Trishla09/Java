@@ -6,22 +6,5 @@ System.out.println("Enter a number:");
 int a=sc.nextInt();
 int s=Integer.SIZE;
 System.out.println("The size of a is "+s);
-
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
-
-
-
 }
